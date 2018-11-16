@@ -1,7 +1,7 @@
 ---
 layout: site
-title: "First Post for thesting the theme"
-date: 2018-11-08 18:23:03 +0200
+title: "Second Post for thesting the theme"
+date: 2018-11-09 18:23:03 +0200
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
@@ -32,10 +32,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 <ul>
-    <li><a href="#">Consetetur sadipscing elitr</a></li>
-    <li><a href="#">sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</a></li>
-    <li><a href="#">sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum</a></li>
-    <li><a href="#">Stet clita kasd gubergren</a></li>
+	<li><a href="#">Consetetur sadipscing elitr</a></li>
+	<li><a href="#">sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat</a></li>
+	<li><a href="#">sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum</a></li>
+	<li><a href="#">Stet clita kasd gubergren</a></li>
 </ul>
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
